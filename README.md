@@ -1,5 +1,5 @@
 <p align="center">
-<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/0c7e3eae-52d5-4a46-b246-2e53285b3679" />
+<img width="850" height="370" alt="image" src="https://github.com/user-attachments/assets/0c7e3eae-52d5-4a46-b246-2e53285b3679" />
 </p>
 
 <h1>Configuring the Dynamic Host Configuration Protocal (DHCP)</h1>
