@@ -1,7 +1,6 @@
 <p align="center">
-<img width="850" height="370" alt="image" src="https://github.com/user-attachments/assets/cc9abb45-57f4-4ba6-bcb8-609ec84a996a" />
+<img width="850" height="370" alt="image" src="https://github.com/user-attachments/assets/0c7e3eae-52d5-4a46-b246-2e53285b3679" />
 </p>
-
 
 <h1>Configuring the Dynamic Host Configuration Protocal (DHCP)</h1>
 This project outlines the deployment of DHCP onto the Windows Server as well as the configuration of the DHCP, along with resolving production like tickets.<br />
