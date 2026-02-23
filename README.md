@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring the Dynamic Host Configuration Protocal (DHCP)</h1>
-This project outlines the deployment of DHCP onto the Windows Server as well as the configuration of the DHCP, along with resolving production like tickets.<br />
+This project outlines the deployment of DHCP onto the Windows Server as well as the configuration of the DHCP.<br />
 
 
 <h2>Environments and Technologies Used</h2>
