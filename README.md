@@ -323,10 +323,6 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 </p>
 <br />
 
-## End Results
-<p>
-<img src="https://github.com/user-attachments/assets/c12b3a84-920f-45a5-a28b-17c6a518a637" width="500" alt="Disk Sanitization Steps"/>
-</p>
 
 ---
 
