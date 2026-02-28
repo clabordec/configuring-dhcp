@@ -301,28 +301,6 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 </p>
 <br />
 
-### Create categories for easy access when users are reporting an issue
-<p>
-<img src="https://github.com/user-attachments/assets/4abfa45a-c4ef-42e0-b2d7-ebfbaf6d9890" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-<p>
-<img src="https://github.com/user-attachments/assets/4648a1dd-c342-4f0e-8351-736d0453cae0" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/79524750-0e4a-436a-9ee4-05f7a88634f6" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/a774b669-a7a0-4a57-976d-d68c168762cd" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/b693e9f0-4bd5-492e-bd72-e2fb9acd91b6" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/11ea6974-4b7e-4b39-8321-5f8552efd129" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
 
 ---
 
