@@ -30,12 +30,14 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 <h1>Configuration Steps</h1>
 
 ## Deploying DHCP onto the Windows Server
-### Log into the Admin/Analyst panel with the credentials created for osTicket
+### Verify that DHCP is enabled (User Interface), for this verificatoin, you can tell if DHCP is either enabled or disabled due to the 
 <p>
-<img src="https://github.com/user-attachments/assets/129ee379-54ad-4de7-a10b-9cadb71da8d2" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/09de7614-17ea-4fd6-a238-83ec45c7a842" width="500" alt="Disk Sanitization Steps"/>
 </p>
+
+### Verify that DHCP is enabled (Command Prompt), for this verification, you can tell that DHCP is either enabled or disabled by viewing the "DHCP Enabled" setting
 <p>
-<img src="https://github.com/user-attachments/assets/a95ce5a6-5985-4c0d-b2dc-e98c05ab12fd" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/70133195-298e-4f62-91ac-07afa790ea75" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
