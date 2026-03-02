@@ -30,7 +30,7 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 <h1>Configuration Steps</h1>
 
 ## Deploying DHCP onto the Windows Server
-### Verify that DHCP is enabled (User Interface), for this verificatoin, you can tell if DHCP is either enabled or disabled due to the 
+### Verify that DHCP is enabled (User Interface), for this verificatoin, you can tell if DHCP is either enabled or disabled due to the "Ontain an IP address automatically" radio option not being selected
 <p>
 <img src="https://github.com/user-attachments/assets/09de7614-17ea-4fd6-a238-83ec45c7a842" width="500" alt="Disk Sanitization Steps"/>
 </p>
