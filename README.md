@@ -29,7 +29,7 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 
 <h1>Configuration Steps</h1>
 
-## Deploying DHCP onto the Windows Server
+## Verifying DHCP
 ### Verify that DHCP is enabled (User Interface), for this verificatoin, you can tell if DHCP is either enabled or disabled due to the "Ontain an IP address automatically" radio option not being selected
 <p>
 <img src="https://github.com/user-attachments/assets/09de7614-17ea-4fd6-a238-83ec45c7a842" width="500" alt="Disk Sanitization Steps"/>
@@ -41,14 +41,8 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 </p>
 <br />
 
-### Configure Roles (for grouping permissions)
-<p>Admin Panel ---> Agents ---> Roles</p>
-<p>
-<img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/01b38d9c-7f4b-4857-b849-b36fcf9d8a28" width="500" alt="Disk Sanitization Steps"/>
-</p>
+## Deploying DHCP onto the Windows Server
+### 
 <p>
 <img src="https://github.com/user-attachments/assets/ba0fe77b-7e2b-4094-9fd5-ab7a982d045e" width="500" alt="Disk Sanitization Steps"/>
 </p>
