@@ -42,13 +42,13 @@ This project outlines the deployment of DHCP onto the Windows Server as well as 
 <br />
 
 ## Deploying DHCP onto the Windows Server
-### 
+### Navigate to Server Manage >> Click Manage >> Click Add Roles and Features
 <p>
 <img src="https://github.com/user-attachments/assets/ba0fe77b-7e2b-4094-9fd5-ab7a982d045e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Creat a new role called `Supreme Admin`
+### 
 <p>
 <img src="https://github.com/user-attachments/assets/681b72d1-654a-4fff-b364-b470a08f6b8a" width="500" alt="Disk Sanitization Steps"/>
 </p>
